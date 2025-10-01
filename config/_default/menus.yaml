@@ -1,0 +1,180 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 94cd727e-2d9b-4f3a-b914-fd4d2edba7c2
+  name: Course Information
+  pageRef: /pages/course-information
+  weight: 10
+- identifier: 745d7c97-71de-46d8-81dc-859108b06bd8
+  name: Introduction
+  pageRef: /pages/introduction
+  weight: 20
+- identifier: 07d0c681-2cf0-4241-b8a9-b1865b183e42
+  name: What is Engineering?
+  pageRef: /pages/what-is-engineering
+  weight: 30
+- identifier: 06021acd-609a-416e-8442-4ee43941eded
+  name: What are Common STEM Fields?
+  pageRef: /pages/engineering-fields
+  weight: 40
+- identifier: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  name: 'Experiment: Filtration Lab'
+  pageRef: /pages/filtration-lab-motivation
+  weight: 50
+- identifier: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  name: 'Experiment: Bluetooth Hide & Seek'
+  pageRef: /pages/bluetooth-hide-and-seek
+  weight: 60
+- identifier: 9e9395c3-ad31-4842-9588-1f844d8c3550
+  name: 'Experiment: Clausewitzian Chess'
+  pageRef: /pages/clausewitzian-chess-introduction
+  weight: 70
+- identifier: 23670d09-03c7-49d6-90c5-1951aedb0f8c
+  name: Conclusion
+  pageRef: /pages/conclusion
+  weight: 80
+- identifier: 9339e88d-fbfa-492e-82c4-080fdf00664d
+  name: Core STEM Fields
+  pageRef: /pages/core-stem-fields
+  parent: 07d0c681-2cf0-4241-b8a9-b1865b183e42
+  weight: 10
+- identifier: 1c082150-35bb-4236-af04-c67f3976fd42
+  name: Bioengineering
+  pageRef: /pages/bioengineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 10
+- identifier: 53b4f731-d3c7-4f34-884f-b1194d6f6ad0
+  name: Civil Engineering
+  pageRef: /pages/civil-engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 20
+- identifier: 8debd02e-6b15-4fca-8da4-a790605c77e9
+  name: Chemical Engineering
+  pageRef: /pages/chemical-engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 30
+- identifier: 37609b1f-ecd4-4a38-80ff-9f096a385830
+  name: Computer Science
+  pageRef: /pages/computer-science
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 40
+- identifier: 139d8a89-a0b2-4764-8521-182d2361d283
+  name: Data Science
+  pageRef: /pages/data-science
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 50
+- identifier: d4a2477d-d6ef-4a17-abb2-c4d4e18e45b8
+  name: Electrical / Electronic
+  pageRef: /pages/electrical-electronic-engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 60
+- identifier: f80e2b40-8e12-4587-a990-e4fb27e443e9
+  name: Environmental Engineering
+  pageRef: /pages/environmental-engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 70
+- identifier: c9c42ba7-62f4-4412-ab3b-2b9abeb6fbe6
+  name: Mechanical Engineering
+  pageRef: /pages/mechanical-engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 80
+- identifier: 6e3ee185-f87f-46da-93b4-d213eec53d4d
+  name: Nuclear Engineering
+  pageRef: /pages/nuclear-engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 90
+- identifier: d8b3e398-0180-4d5f-b9e9-b4cd00e89ac1
+  name: Software Engineering
+  pageRef: /pages/software-engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 100
+- identifier: 7c445ba5-1b4c-4962-a54d-e74fc4db0058
+  name: Community-Focused Engineering Societies
+  pageRef: /pages/community-focused-engineering-societies
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  weight: 110
+- identifier: d3b706dc-fbcc-4ed1-a012-650d814778e4
+  name: Filtration Experiment Overview
+  pageRef: /pages/filtration-experiment-overview
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  weight: 10
+- identifier: e9aec624-1e21-4d0f-9d6d-c268a838aac4
+  name: 'Step 1: Understanding the Problem'
+  pageRef: /pages/filtration-lab
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  weight: 20
+- identifier: 13590617-2b83-409d-a7ea-2d3baee083aa
+  name: 'Step 2: Constraints & Materials'
+  pageRef: /pages/filtration-lab-step-2-considering-constraints-gathering-materials
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  weight: 30
+- identifier: d8ddf1dc-54ee-4fd5-a9dc-f79c5b05c96a
+  name: 'Step 3: Design'
+  pageRef: /pages/filtration-lab-step-3-design
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  weight: 40
+- identifier: 1c2c1701-c3ff-41e9-87c1-2d5cdd0ddcda
+  name: 'Step 4: Build'
+  pageRef: /pages/filtration-lab-step-4-build
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  weight: 50
+- identifier: 60808d45-9eae-40e0-a1f5-7fb75654e877
+  name: 'Step 5: Experiment & Evaluate'
+  pageRef: /pages/filtration-lab-step-5-experiment-evaluate
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  weight: 60
+- identifier: 7ecd036d-e3a5-406c-84d2-8a0bb19d9e33
+  name: 'Step 6: Reflect'
+  pageRef: /pages/reflect
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  weight: 70
+- identifier: 8407b28f-514f-467f-9518-ce8c4862da83
+  name: 'Step 1: Gathering Materials'
+  pageRef: /pages/step-1-gathering-materials
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  weight: 10
+- identifier: 07c691eb-3eee-41dc-8c1a-14a2c9a52c18
+  name: 'Step 2: Build'
+  pageRef: /pages/step-2-build
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  weight: 20
+- identifier: 9f4db52d-e364-493f-9f8e-fb69b7a865df
+  name: 'Step 3: Experiment'
+  pageRef: /pages/step-3-experiment
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  weight: 30
+- identifier: 9b034a01-d976-4217-8c76-105b4845c620
+  name: 'Step 4: Test'
+  pageRef: /pages/step-4-test
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  weight: 40
+- identifier: f3e5ad9a-64a5-40da-aac9-8e3556be1c42
+  name: 'Step 5: Evaluate & Reflect'
+  pageRef: /pages/bluetooth-hide-seek-step-5-evaluate-reflect
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  weight: 50
+- identifier: c7539a71-17a5-4918-a28c-49dadab7725e
+  name: Chess Basics
+  pageRef: /pages/clausewitzian-chess-chess-basics
+  parent: 9e9395c3-ad31-4842-9588-1f844d8c3550
+  weight: 10
+- identifier: 5eb8205e-68e6-4018-bf9c-513cd5cc2750
+  name: 'Scenario 1: The Many or the Few'
+  pageRef: /pages/clausewitzian-chess-scenario-1-the-many-or-the-few
+  parent: 9e9395c3-ad31-4842-9588-1f844d8c3550
+  weight: 20
+- identifier: b3a445d9-96c2-4fbc-aa72-3fc374c80b21
+  name: 'Scenario 2: I Spy'
+  pageRef: /pages/clausewitzian-chess-scenario-2-i-spy
+  parent: 9e9395c3-ad31-4842-9588-1f844d8c3550
+  weight: 30
+- identifier: 7a569469-5549-4a02-9344-11a58df0e0b0
+  name: 'Scenario 3: Your Design'
+  pageRef: /pages/clausewitzian-chess-scenario-3-your-design
+  parent: 9e9395c3-ad31-4842-9588-1f844d8c3550
+  weight: 40
+- identifier: 520ce5bc-11d0-4412-aa24-dc279d1f6c3a
+  name: Findings from Previous Experiments
+  pageRef: /pages/clausewitzian-chess-findings-from-previous-experiments
+  parent: 9e9395c3-ad31-4842-9588-1f844d8c3550
+  weight: 50
